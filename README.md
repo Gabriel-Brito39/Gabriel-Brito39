@@ -2,12 +2,13 @@
 ### Olá! eu sou Gabriel Heitor 👋
 Sou desenvolvedor FullStack, com foco em desenvolvimento web do front-end ao back-end. Trabalho na criação de interfaces funcionais e APIs bem estruturadas, integrando bancos de dados e serviços externos. Tenho experiência com versionamento de código, organização de projetos e entrega de soluções eficientes, sempre priorizando código limpo e manutenção simples.
 
+### Redes Sociais 📸
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gabrielheitordev/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-heitor/)
 
 
 
-### Tecnologias que utilizo
+### Tecnologias que utilizo 🖥️
 
 <div style="display:inline_block"><br/>
     <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
